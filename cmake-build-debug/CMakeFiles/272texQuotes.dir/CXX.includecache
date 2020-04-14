@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/__DATA/Documents/UTEC/ADS2020-1/272texQuotes/main.cpp
+iostream
+-
+algorithm
+-
+fstream
+-
+
